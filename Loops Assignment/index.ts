@@ -1,4 +1,4 @@
-//                    Object, Array and Function Assignment
+//                    Loops Assignment
 
 // 1. Creating a Lesson Plan( Using for loop )
 
